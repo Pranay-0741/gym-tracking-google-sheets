@@ -18,7 +18,7 @@ This is a low-cost, efficient gym member tracking system built using **Google Sh
 
 ## Motivation
 
-This project was created to solve a real-world problem: a gym owner friend was managing all member records on paper, leading to clutter, mismanagement, and lack of insight. This system provides a clean, automated alternative.
+This project was created to solve a real-world problem: a gym owner who is my friend was managing all member records on paper, leading to clutter, mismanagement, and lack of insight. This system provides a clean, automated alternative.
 
 ## Key Features
 
